@@ -1,5 +1,5 @@
 Ans1. O(n^2)
-Ans2. O(nlogn)
+Ans2. O(n)
 Ans3. Linear search algorithm complexity
     Best    O(1)
     Average O(n/2)
